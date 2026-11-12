@@ -6,4 +6,4 @@ Softwares used:
   2. GNS3
 
 ## Projects
-- Hotel Network -VLANs, ACLs, OSPF, NAT/PAT, WLC, VOIP
+- [Hotel Network Project] -VLANs, ACLs, OSPF, NAT/PAT, WLC, VOIP
