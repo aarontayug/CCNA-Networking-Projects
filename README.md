@@ -4,3 +4,6 @@ Networking projects I've created to practice my networking and configuration ski
 Softwares used:
   1. Cisco Packet Tracer
   2. GNS3
+
+    ## Projects
+    - [Hotel Network](Hotel-Network/) - VLANs, ACLs, OSPF, NAT/PAT, WLC, VoIP
